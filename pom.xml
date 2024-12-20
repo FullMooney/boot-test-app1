@@ -443,13 +443,13 @@
 		    <groupId>io.micrometer</groupId>
 		    <artifactId>micrometer-registry-prometheus</artifactId>
 		</dependency> -->
-
+                <!--
 		<dependency>
 			<groupId>com.dev</groupId>
 			<artifactId>fwk</artifactId>
 			<version>dev-0.0.1-SNAPSHOT</version>
 		</dependency>
-
+                -->
 		<!-- swagger-ui -->
 		<dependency>
 		    <groupId>org.springdoc</groupId>
