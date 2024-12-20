@@ -1,6 +1,5 @@
 # hict-sample-boot1
 
-this is codeserver-0
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
@@ -21,7 +20,7 @@ git push -uf origin main
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab-sample.apps.dev.honecloud.co.kr/sample/boot-test-app1.git/-/settings/integrations)
+- [ ] [Set up project integrations](https://github.com/FullMooney/boot-test-app1.git/-/settings/integrations)
 
 ## Collaborate with your team
 
